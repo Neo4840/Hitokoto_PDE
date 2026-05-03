@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "HitokotoBetaExtension (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "HitokotoBetaExtension (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
