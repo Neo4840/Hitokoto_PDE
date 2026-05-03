@@ -20,8 +20,8 @@
 ## 安装
 
 1. 确保已安装 [PowerToys](https://github.com/microsoft/PowerToys)（≥0.90 版本）
-2. Release页面下载发布包（`.msixbundle` 或 `.exe` 安装程序）
-3. 运行安装程序，按提示完成安装
+2. Release页面下载发布包
+3. 按提示完成安装
 4. 打开 PowerToys 命令面板（默认 `Win + Alt + 空格`），输入 `reload` 刷新扩展列表
 
 ## 使用
