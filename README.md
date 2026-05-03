@@ -2,10 +2,10 @@
 
 在 PowerToys 命令面板中快速获取、复制一言（Hitokoto）句子，支持 Dock 栏常驻显示与刷新。
 
-![PowerToys 设置界面截图](C:\Users\Neo\Documents\Extension\Hitokoto_Powertoys_Dock_Extension\settings.png)
+![PowerToys 设置界面截图](\settings.png)
 *PowerToys 设置界面截图*
 
-![Dock 实装截图](C:\Users\Neo\Documents\Extension\Hitokoto_Powertoys_Dock_Extension\dockpreview.png)
+![Dock 实装截图](\dockpreview.png)
 *Dock 栏实装截图*
 
 ## 功能
